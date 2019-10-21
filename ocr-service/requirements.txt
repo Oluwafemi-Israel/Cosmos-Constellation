@@ -4,7 +4,7 @@ Flask==1.0.2
 Flask-Cors==3.0.6
 Jinja2==2.10
 MarkupSafe==1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 asn1crypto==0.24.0
 azure-common==1.1.14
 azure-nspkg==2.0.0
